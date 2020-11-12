@@ -1,0 +1,14 @@
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\bin\Release\edgedriver_win64\msedgedriver.exe
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\bin\Release\Fill_Me.txt
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\bin\Release\SGV_Health_Tracker.exe.config
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\bin\Release\SGV_Health_Tracker.exe
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\bin\Release\Microsoft.Edge.SeleniumTools.dll
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\bin\Release\WebDriver.dll
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\bin\Release\WebDriver.Support.dll
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\bin\Release\WebDriver.xml
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\bin\Release\WebDriver.Support.xml
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\obj\Release\SGV_Health_Tracker.Properties.Resources.resources
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\obj\Release\SGV_Health_Tracker.csproj.GenerateResource.cache
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\obj\Release\SGV_Health_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\obj\Release\SGV_Health_Tracker.csproj.CopyComplete
+C:\Users\bt272yw\source\repos\SGV_Health_Tracker\SGV_Health_Tracker\obj\Release\SGV_Health_Tracker.exe

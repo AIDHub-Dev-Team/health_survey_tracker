@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGV_Health_Tracker", "SGV_Health_Tracker\SGV_Health_Tracker.csproj", "{E32BA27E-7635-4C93-9F13-078105FB7C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E32BA27E-7635-4C93-9F13-078105FB7C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32BA27E-7635-4C93-9F13-078105FB7C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32BA27E-7635-4C93-9F13-078105FB7C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32BA27E-7635-4C93-9F13-078105FB7C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A89B8435-31A6-40BA-86DB-16FF10DE1D90}
+	EndGlobalSection
+EndGlobal

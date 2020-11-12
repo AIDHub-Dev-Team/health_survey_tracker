@@ -1,0 +1,5 @@
+﻿address = '100 Hills Kaer Morhen, Nilfgard'
+location = 'Blue Mountains'
+gpn_number = 'PH011111111'
+mobile_number = '09123456789'
+url = 'https://forms.office.com/Pages/ResponsePage.aspx?id=mT-XW99360uyfaoMcLhILE31fuiRD4FFnNO_2OVb2YRUQUVSWlg0NDJGOU5OMVM3WEs5SDZNSkZLVS4u'
