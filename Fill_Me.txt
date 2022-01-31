@@ -1,5 +1,0 @@
-﻿location = ''
-gpn_number = ''
-mobile_number = ''
-url = ''
-delay_per_seconds = '2'
