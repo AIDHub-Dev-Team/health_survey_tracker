@@ -1,5 +1,0 @@
-﻿address = '100 F. Castro St. Nasugbu Batangas'
-location = 'Batangas'
-gpn_number = 'PH011612696'
-mobile_number = '09176230820'
-url = 'https://forms.office.com/Pages/ResponsePage.aspx?id=mT-XW99360uyfaoMcLhILE31fuiRD4FFnNO_2OVb2YRUQUVSWlg0NDJGOU5OMVM3WEs5SDZNSkZLVS4u'
